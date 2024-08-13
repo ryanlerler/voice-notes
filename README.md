@@ -121,3 +121,4 @@ By adding these IDs to the respective UI components, the provided test suite wil
 - Deepgram documentation: https://developers.deepgram.com/docs/node-sdk-streaming-transcription
 - Deepgram sdk: https://www.npmjs.com/package/@deepgram/sdk
 - Deepgram signup (for free API key): https://console.deepgram.com/signup
+# voice-notes
